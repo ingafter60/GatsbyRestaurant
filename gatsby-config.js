@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Anjel's Restaurant`,
+    description: `This restaurant serves Japanese and Korean Food, Cooks by a Balinese Women.`,
+    author: `I Nyoman Gurnitha`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
