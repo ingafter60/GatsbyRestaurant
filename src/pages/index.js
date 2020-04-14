@@ -13,6 +13,9 @@ const IndexPage = () => (
     <p>
       Great and deliciouse Japanese and Korean Food cooks by a Balinese women.
     </p>
+    <p>
+      279. Deploy On Netlify.
+    </p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
