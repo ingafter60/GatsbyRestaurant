@@ -1,14 +1,11 @@
 import React from "react"
 import PropTypes from "prop-types"
 
+import "./bootstrap.min.css"
 import "./layout.css"
 
 const Layout = ({ children }) => {
-  return(
-    <React.Fragment>
-      {children}
-    </React.Fragment>
-  )
+  return <React.Fragment>{children}</React.Fragment>
 }
 
 Layout.propTypes = {
